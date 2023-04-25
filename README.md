@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isak Olsen Juklestad</h1>
 <h3 align="center">IT på deltid, hyggelig kjernekar på heltid</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **React JSX & Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iserngoat?tab=repositories](https://github.com/iserngoat?tab=repositories)
 
